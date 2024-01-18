@@ -1,5 +1,5 @@
 <div align="center">    
-  # Student Performance Prediction 
+# Student Performance Prediction 
 </div>
 A machine learning project for predicting student performance.
 
