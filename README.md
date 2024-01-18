@@ -1,8 +1,7 @@
-# Student Performance Prediction
-
 <div align="center">    
-  A machine learning project for predicting student performance.  
+  # Student Performance Prediction 
 </div>
+A machine learning project for predicting student performance.
 
 ## How to run
 
