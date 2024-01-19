@@ -15,10 +15,11 @@ Clone the project:
 git clone https://github.com/wicklyg/mlproject
 ```
 
-Install project dependencies:
+Install project dependencies & activate environment:
 
 ```bash
 cd mlproject
+conda activate venv
 pip install -r requirements.txt
 ```
 
